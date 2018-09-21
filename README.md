@@ -10,11 +10,17 @@ General activities of Regression testing
 
 ## Palette Colors Document
 
-### 1. Repository Link: [Github](https://github.com/makitodev/MISO_REGRESSION_TESTING)
+ **0. Exceute:**
+  
+    $ npm install
 
-### 2. Application Link: [REGRESSION_TESTING](https://makitodev.github.io/MISO_REGRESSION_TESTING/)
-   
-### 3. ScreenShots using Cypress
-   
-### 4. Answers
-   
+ **1. Repository Link:** [Github](https://github.com/makitodev/MISO_REGRESSION_TESTING)
+
+ **2. Application Link:** [REGRESSION_TESTING](https://makitodev.github.io/MISO_REGRESSION_TESTING/)
+
+ **3. ScreenShots using Cypress:**
+
+    - run commannd $ npm run cypress:open
+    - run simple_spec.js file
+
+ **4. Answers:**
