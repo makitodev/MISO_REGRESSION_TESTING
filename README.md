@@ -26,23 +26,17 @@ General activities of Regression testing
 when cypress open, select simple_spec.js an run it
 
 CASE 1 ---> Generate Random Color
-
 ![Before](screenshots/C1_Before_GenerateRandomColor.png)
-
 ![After](screenshots/C1_After_GenerateRandomColor.png)
-
 -------------
+
 CASE 2 ---> Generate random color when it isnt white
-
 ![Before](screenshots/C2_Before_RandomColorWhenNotWhite.png)
-
 ![After](screenshots/C2_After_RandomColorWhenNotWhite.png)
-
 -------------
+
 CASE 3 ----> Clean color when palette has selected
-
 ![Before](screenshots/C3_Before_CleanColor.png)
-
 ![After](screenshots/C3_After_CleanColor.png)
 
 **Compare screenshot using ResembleJS**
