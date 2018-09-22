@@ -65,3 +65,8 @@ CASE 3 ----> Clean color when palette has selected
 
 I had no problem, i followed the documentation of cypress and before each click of the buttons took screenshot of the website to see the differences in the interface of both states. Cypress create a folder automatically with the images of the screenshots taken from the tests.
 
+**Qué información puedo obtener de una imagen al usar resembleJS y que significado tiene cada uno de los componentes de la respuesta?** 
+La librería logra identificar los cambios obtenids en la interfaz  y los señala mediante un coloreado color rosa para denotar cambios de color, de contenido y posición.
+
+**Qué información puedo obtener al comparar dos imagenes?**
+Al comparar las imágenes Resembler puede determinar sobre las dos imágenes qué cambios se obtuvieron de una a la otra, cambios de color o incluso caracteres como lo señala en la caja de texto (que describe el color) y hasta el sombreado (color azul) sobre el botón de Generar Paleta.
