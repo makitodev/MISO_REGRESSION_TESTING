@@ -45,6 +45,20 @@ CASE 3 ----> Clean color when palette has selected
 
 ![After](screenshots/C3_After_CleanColor.png)
 
+**Compare screenshot using ResembleJS**
+
+CASE 1 ---> Generate Random Color
+
+![CompareC1](screenshots/C1.png)
+
+CASE 2 ---> Generate random color when it isnt white
+
+![CompareC2](screenshots/C2.png)
+
+CASE 3 ----> Clean color when palette has selected
+
+![CompareC3](screenshots/C3.png)
+
  **4. Questions:**
 
 **Do you see any problems with the screenshots taken by Cypress when trying to do Visual Regression Testing?**
