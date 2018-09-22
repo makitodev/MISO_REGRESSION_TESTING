@@ -20,7 +20,34 @@ General activities of Regression testing
 
  **3. ScreenShots using Cypress:**
 
-    - run commannd $ npm run cypress:open
-    - run simple_spec.js file
+    - run commannd 
+    $ npm run cypress:open
+  
+when cypress open, select simple_spec.js an run it
 
- **4. Answers:**
+CASE 1 ---> Generate Random Color
+
+![Before](screenshots/C1_Before_GenerateRandomColor.png)
+
+![After](screenshots/C1_After_GenerateRandomColor.png)
+
+-------------
+CASE 2 ---> Generate random color when it isnt white
+
+![Before](screenshots/C2_Before_RandomColorWhenNotWhite.png)
+
+![After](screenshots/C2_After_RandomColorWhenNotWhite.png)
+
+-------------
+CASE 3 ----> Clean color when palette has selected
+
+![Before](screenshots/C3_Before_CleanColor.png)
+
+![After](screenshots/C3_After_CleanColor.png)
+
+ **4. Questions:**
+
+**Do you see any problems with the screenshots taken by Cypress when trying to do Visual Regression Testing?**
+
+I had no problem, i followed the documentation of cypress and before each click of the buttons took screenshot of the website to see the differences in the interface of both states. Cypress create a folder automatically with the images of the screenshots taken from the tests.
+
