@@ -70,3 +70,6 @@ La librería logra identificar los cambios obtenids en la interfaz  y los señal
 
 **Qué información puedo obtener al comparar dos imagenes?**
 Al comparar las imágenes Resembler puede determinar sobre las dos imágenes qué cambios se obtuvieron de una a la otra, cambios de color o incluso caracteres como lo señala en la caja de texto (que describe el color) y hasta el sombreado (color azul) sobre el botón de Generar Paleta.
+
+**Qué opciones se pueden seleccionar al realizar la comparación ?**
+Resemble js permite configurar ciertas opciones dentro de la comparación de imágenes para identificar de forma visual qué cambios se obtuvieron, color del resaltado del cambio, tipos de datos a ignorar como cambios de color, cambios de transparencia, tamaño de las imágenes a generar, densidad, movimiento etc. 
